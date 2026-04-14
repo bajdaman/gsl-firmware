@@ -96,6 +96,7 @@ for copyright information.
 | Globalspace   | SoLT IVW 11.6"                  | yes     | [firmware/globalspace/solt-ivw-11.6](firmware/globalspace/solt-ivw-11.6) |
 | SARY          | Tab 3                           | yes     | [firmware/sary/tab-3](firmware/sary/tab-3) |
 | AWOW			| AiBook 10						  | no		| [firmware/awow/aibook_10](firmware/awow/aibook_10/sileadtouch.sys) |
+| Mytab			| Garda U80GT	        			  | yes		| [firmware/mytab/Garda_U80GT](firmware/mytab/Garda_U80GT/sileadtouch_x86/SileadTouch.sys) |
 
 
 ## Adding new firmware
